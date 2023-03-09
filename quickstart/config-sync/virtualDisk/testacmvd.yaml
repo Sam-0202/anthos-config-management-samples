@@ -1,6 +1,6 @@
 apiVersion: vm.cluster.gke.io/v1
 kind: VirtualMachineDisk
 metadata:
-  name: testACM-vd
+  name: test-acm-vd
 spec:
   size: 100Gi
